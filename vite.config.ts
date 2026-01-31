@@ -3,16 +3,7 @@ import { defineConfig } from 'vite';
 export default defineConfig({
   root: '.',
   build: {
-    outDir: 'dist',
-    rollupOptions: {
-      input: {
-        main: './src/scripts/main.ts'
-      },
-      output: {
-        entryFileNames: 'main.js',
-        assetFileNames: 'assets/[name].[ext]'
-      }
-    }
+    outDir: 'dist'
   },
   server: {
     port: 3000,
