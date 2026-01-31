@@ -18,14 +18,14 @@
       "id": 3,
       "period": "Jul 2024 - Present / 2024年7月〜現在",
       "title": "Osaka University, Yanagisawa Lab / 大阪大学 柳澤研究室",
-      "role": "Researcher / 研究員",
+      "role": "Researcher Intern / 研究員インターン",
       "description": "Feature extraction and classification from monkey intracranial EEG. Developing automated preprocessing pipelines. / サル頭蓋内脳波からの特徴抽出と分類。自動前処理パイプラインの開発。"
     },
     {
       "id": 4,
       "period": "May 2024 - Present / 2024年5月〜現在",
-      "title": "Kwansei Gakuin University, Yoko Shimizu Lab / 関西学院大学 清水裕子研究室",
-      "role": "Collaborative Researcher / 共同研究者",
+      "title": "Kwansei Gakuin University, Yoko Shimizu Lab / 関西学院大学 清水陽子研究室",
+      "role": "Collaborative Researcher / 共同研究",
       "description": "Analyzing residential migration factors in Nishinomiya City. / 西宮市における居住移動要因の分析。"
     },
     {
@@ -39,7 +39,7 @@
       "id": 6,
       "period": "Feb 2024 - May 2024 / 2024年2月〜5月",
       "title": "DFKI, Immersive Quantified Learning Lab / ドイツ人工知能研究センター",
-      "role": "Visiting Researcher / 客員研究員",
+      "role": "Visiting Researcher / 研究員",
       "description": "Feature estimation of language processing in EEG using explainable AI and Vision Transformers. Presented at ACCV 2024. / 説明可能AIとVision Transformerを用いた脳波における言語処理の特徴推定。ACCV 2024にて発表。"
     },
     {
@@ -53,7 +53,7 @@
       "id": 8,
       "period": "Aug 2023 - Sep 2023 / 2023年8月〜9月",
       "title": "Georgia Institute of Technology, Stolfi Lab / ジョージア工科大学 Stolfi研究室",
-      "role": "Visiting Researcher / 客員研究員",
+      "role": "Visiting Researcher / 研究員",
       "description": "Genetic modification of Ciona using CRISPR-Cas9. Developed automated analysis programs for experimental results. / CRISPR-Cas9を用いたホヤの遺伝子改変。実験結果の自動解析プログラムの開発。"
     }
   ]
