@@ -221,6 +221,119 @@ section:last-of-type {
   font-size: 1.125rem;
 }
 
+/* Japanese Text Styles */
+.jp-title {
+  font-weight: 400;
+  font-size: 0.9em;
+  color: var(--muted);
+}
+
+.jp-text,
+.lead-jp {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-top: -0.5rem;
+}
+
+#vision .lead-jp {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+/* Education */
+.education-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.edu-item {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.edu-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.edu-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.edu-title {
+  font-weight: 600;
+  color: var(--fg);
+  line-height: 1.4;
+}
+
+.edu-period {
+  font-size: 0.875rem;
+  color: var(--muted);
+  text-align: right;
+  line-height: 1.4;
+}
+
+.edu-detail {
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+/* Awards */
+.awards-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.award-item h4 {
+  color: var(--fg);
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.award-item p {
+  margin-bottom: 0.25rem;
+  color: var(--muted);
+}
+
+.award-detail {
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+/* Projects */
+.project-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.project-item {
+  padding: 1.5rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.project-item h4 {
+  color: var(--fg);
+  margin-bottom: 0.5rem;
+}
+
+.project-item p {
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.project-item a {
+  font-weight: 500;
+}
+
 /* Footer */
 footer {
   text-align: center;
@@ -251,9 +364,18 @@ footer {
     padding: 1.5rem;
   }
 
-  .exp-header {
+  .exp-header,
+  .edu-header {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .edu-period {
+    text-align: left;
+  }
+
+  .project-item {
+    padding: 1rem;
   }
 }
 
