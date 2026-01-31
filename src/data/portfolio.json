@@ -2,59 +2,59 @@
   "experience": [
     {
       "id": 1,
-      "period": "Apr 2025 - Present",
-      "title": "Osaka University, Graduate School of Medicine",
-      "role": "Researcher",
-      "description": "Investigating information encoding mechanisms in the hippocampus using intracranial EEG, deep learning, and topological data analysis."
+      "period": "Mar 2025 - Present / 2025年3月〜現在",
+      "title": "TLaiVisions",
+      "role": "CTO",
+      "description": "Leading AI technology development and implementation strategy. Building RAG systems and recommendation models using Python and TypeScript. / AI技術開発と実装戦略をリード。PythonとTypeScriptを用いたRAGシステムおよびレコメンドモデルの構築。"
     },
     {
       "id": 2,
-      "period": "Nov 2024 - Present",
-      "title": "TLaiVisions",
-      "role": "CTO",
-      "description": "Leading AI technology development and implementation strategy. Building RAG systems and recommendation models using Python and TypeScript."
+      "period": "Oct 2024 - Present / 2024年10月〜現在",
+      "title": "KLDainamix",
+      "role": "Engineer / エンジニア",
+      "description": "Software development and engineering. / ソフトウェア開発およびエンジニアリング。"
     },
     {
       "id": 3,
-      "period": "Jul 2024 - Present",
-      "title": "Osaka University, Yanagisawa Lab",
-      "role": "Researcher",
-      "description": "Feature extraction and classification from monkey intracranial EEG. Developing automated preprocessing pipelines. Paper submission to Neural Networks (IF: 6.0) and presentation at NEURO2025."
+      "period": "Jul 2024 - Present / 2024年7月〜現在",
+      "title": "Osaka University, Yanagisawa Lab / 大阪大学 柳澤研究室",
+      "role": "Researcher / 研究員",
+      "description": "Feature extraction and classification from monkey intracranial EEG. Developing automated preprocessing pipelines. / サル頭蓋内脳波からの特徴抽出と分類。自動前処理パイプラインの開発。"
     },
     {
       "id": 4,
-      "period": "May 2024 - Present",
-      "title": "Kwansei Gakuin University, Yoko Shimizu Lab",
-      "role": "Collaborative Researcher",
-      "description": "Analyzing residential migration factors in Nishinomiya City. Paper submission to Cities (IF: 6.0)."
+      "period": "May 2024 - Present / 2024年5月〜現在",
+      "title": "Kwansei Gakuin University, Yoko Shimizu Lab / 関西学院大学 清水裕子研究室",
+      "role": "Collaborative Researcher / 共同研究者",
+      "description": "Analyzing residential migration factors in Nishinomiya City. / 西宮市における居住移動要因の分析。"
     },
     {
       "id": 5,
-      "period": "Jul 2023 - Present",
-      "title": "Araya Inc.",
-      "role": "Research Intern",
-      "description": "Developing automated EEG preprocessing for simultaneous EEG-fMRI measurements. Building recommendation models for niche content inclusion."
+      "period": "Jul 2023 - Present / 2023年7月〜現在",
+      "title": "Araya Inc. / 株式会社アラヤ",
+      "role": "Research Intern / リサーチインターン",
+      "description": "Developing automated EEG preprocessing for simultaneous EEG-fMRI measurements. Building recommendation models for niche content inclusion. / 同時EEG-fMRI計測のための自動EEG前処理の開発。ニッチコンテンツ推薦モデルの構築。"
     },
     {
       "id": 6,
-      "period": "Feb 2024 - May 2024",
-      "title": "DFKI, Immersive Quantified Learning Lab",
-      "role": "Visiting Researcher",
-      "description": "Feature estimation of language processing in EEG using explainable AI and Vision Transformers. Presented at ACCV 2024 (Acceptance Rate: 32%)."
+      "period": "Feb 2024 - May 2024 / 2024年2月〜5月",
+      "title": "DFKI, Immersive Quantified Learning Lab / ドイツ人工知能研究センター",
+      "role": "Visiting Researcher / 客員研究員",
+      "description": "Feature estimation of language processing in EEG using explainable AI and Vision Transformers. Presented at ACCV 2024. / 説明可能AIとVision Transformerを用いた脳波における言語処理の特徴推定。ACCV 2024にて発表。"
     },
     {
       "id": 7,
-      "period": "Sep 2022 - Sep 2024",
-      "title": "Tokyo Institute of Technology, Yoshimura Lab",
-      "role": "Undergraduate Researcher",
-      "description": "Analyzing brain regions in semantic judgment tasks and evaluating causal connectivity. Developed automated preprocessing scripts in MATLAB. Presented at NEURO 2024."
+      "period": "Sep 2022 - Sep 2024 / 2022年9月〜2024年9月",
+      "title": "Tokyo Institute of Technology, Yoshimura Lab / 東京工業大学 吉村研究室",
+      "role": "Undergraduate Researcher / 学部研究員",
+      "description": "Analyzing brain regions in semantic judgment tasks and evaluating causal connectivity. Developed automated preprocessing scripts in MATLAB. / 意味判断課題における脳領域の解析と因果的結合性の評価。MATLABによる自動前処理スクリプトの開発。"
     },
     {
       "id": 8,
-      "period": "Aug 2023 - Sep 2023",
-      "title": "Georgia Institute of Technology, Stolfi Lab",
-      "role": "Visiting Researcher",
-      "description": "Genetic modification of Ciona using CRISPR-Cas9. Developed automated analysis programs for experimental results."
+      "period": "Aug 2023 - Sep 2023 / 2023年8月〜9月",
+      "title": "Georgia Institute of Technology, Stolfi Lab / ジョージア工科大学 Stolfi研究室",
+      "role": "Visiting Researcher / 客員研究員",
+      "description": "Genetic modification of Ciona using CRISPR-Cas9. Developed automated analysis programs for experimental results. / CRISPR-Cas9を用いたホヤの遺伝子改変。実験結果の自動解析プログラムの開発。"
     }
   ]
 }
